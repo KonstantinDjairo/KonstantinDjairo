@@ -1,4 +1,2 @@
-<img src="https://github-readme-stats.alexandroviski.vercel.app/api?username=alexandroviski&count_private=true&show_icons=true" alt="Statistics" width="420"/> 
-    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandroviski)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.douglastofoli.vercel.app/api/top-langs/?username=douglastofoli&layout=compact&hide=css,blade" alt="Languages" height="165" />
