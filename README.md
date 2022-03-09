@@ -34,7 +34,7 @@ Feel free to visit [my repositories](https://github.com/alexandroviski?tab=repos
 
 [![Github badge](https://img.shields.io/badge/alexandroviski-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandroviski) [![Gmail badge](https://img.shields.io/badge/kisanHorini@protonmail.com-c5221f?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kisanHorini@protonmail.com)
 ------
-##Connect:
+## Connect:
 <p align = "center">
 [<a href="https://freestading-binary.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>]
 <p align = "right">
