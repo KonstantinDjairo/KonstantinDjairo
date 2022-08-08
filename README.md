@@ -38,5 +38,5 @@ Feel free to visit [my repositories](https://github.com/KonstantinDjairo?tab=rep
 <p align = "center">
 [<a href="https://freestading-binary.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>]
 <p align = "right">
-<a href=https://gentoo.org> <img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100"/>
-   <p align="left"> Last Edited on: 27/03/2022.
+<a href=https://freebsd.org> <img src="https://w7.pngwing.com/pngs/95/115/png-transparent-freebsd-pfsense-berkeley-software-distribution-operating-systems-firewall-linux-logo-snout-linux.png" width="80" height="100"/>
+   <p align="left"> Last Edited on: 08/08/2022.
