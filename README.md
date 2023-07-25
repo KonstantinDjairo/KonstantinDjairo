@@ -5,9 +5,9 @@
 
 ### <> About me </>
 
-Hi i'm Alek and I'm a Brazilian developer. I'm here on GitHub to:
+Hi i'm Alek and I'm a Brazilian mathematician & developer. I'm here on GitHub to:
 - Share my codes;
-- Learn more about front-end and back end technologies;
+- Learn more;
 - Contribute to third-party projects;
 - Get inspiration and new ideas!
 
@@ -39,4 +39,4 @@ Feel free to visit [my repositories](https://github.com/KonstantinDjairo?tab=rep
 [<a href="https://freestading-binary.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>]
 <p align = "right">
 <a href=https://freebsd.org> <img src="https://www.freebsd.org/gifs/freebsd_3.gif"/>
-   <p align="left"> Last Edited on: 08/08/2022.
+   <p align="left"> Last Edited on: 24/07/2023.
