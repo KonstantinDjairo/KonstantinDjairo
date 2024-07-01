@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/c3978a2e-d3cc-4efb-af87-6c23a9eb9f7a.svg)](https://wakatime.com/@c3978a2e-d3cc-4efb-af87-6c23a9eb9f7a)
+[![wakatime](https://wakatime.com/badge/user/c3978a2e-d3cc-4efb-af87-6c23a9eb9f7a.svg)]()
 # Hi there!
  
 *A README made with Markdown, [great ideas](https://github.com/KonstantinDjairo) and ♥️!*
