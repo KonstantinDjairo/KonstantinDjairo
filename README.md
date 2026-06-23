@@ -1,5 +1,16 @@
-I moved everything to [my Codeberg account](https://codeberg.org/hashirama) and my own git service: git.ajattix.org 
-
+I moved everything to [my Codeberg account](https://codeberg.org/hashirama) 
+<br>and my own git service:<br>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <img width="64" height="36" alt="image"
+           src="https://github.com/user-attachments/assets/fe971492-f2e3-42cd-b5e3-475e33e5db62">
+    </td>
+    <td valign="middle" style="padding-left:8px;">
+      <a href="https://git.ajattix.org">https://git.ajattix.org</a>
+    </td>
+  </tr>
+</table>
 
 == We're Using GitHub Under Protest ==
 
